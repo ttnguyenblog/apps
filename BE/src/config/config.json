@@ -1,0 +1,14 @@
+{
+  "development": {
+    "username": "qlpk",
+    "password": "admin@123",
+    "database": "quanlyphongkham",
+    "host": "qlpk.database.windows.net",
+    "dialect": "mssql",
+    "logging": false,
+    "query": {
+      "raw": true
+    },
+    "timezone": "+07:00"
+  }
+}
